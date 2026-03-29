@@ -8,7 +8,7 @@ The quiz consists of **5 questions**, including:
 
 It is designed to evaluate basic understanding of safe internet practices, digital tools, and responsible online behavior.
 
-👉 **Access the Quiz Here:**
+**Access the Quiz Here:**
 (https://docs.google.com/forms/d/e/1FAIpQLSfV1klLsruFJp7Av8GJQVy3UCmtqP82whYUIJ3UvmUfF2ua2g/viewform?usp=dialog)
 
 
